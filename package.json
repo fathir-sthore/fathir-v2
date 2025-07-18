@@ -1,0 +1,26 @@
+{
+  "name": "Fathir",
+  "version": "2.0.0",
+  "description": "Bot By Fathir",
+  "main": "fathir.js",
+  "scripts": {
+    "start": "node fathir.js",
+    "dev": "nodemon fathir.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "axios": "^1.7.9",
+    "chalk": "^4.1.2",
+    "node-fetch": "^2.6.7",
+    "yt-search": "^2.6.1",
+    "ytdl-core": "^4.11.5",
+    "node-upload-images": "^1.0.1",
+    "fs": "0.0.1-security",
+    "os": "^0.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "author": "Fathir",
+  "license": "MIT"
+}
