@@ -14,7 +14,7 @@ NOTE : Hargai Pengembang Dengan Cara Tidak Rename/Delete Credit Di Atas, Gunakan
 */
 const settings = {
   owner: '7879293312', // ganti id telegram lu
-  token: '7549229318:AAG7HBAkRMfPTdAE_6Nanx6Yaypq3JWnEiI', // Token Bot Lu
+  token: '7207585443:AAHQmF0RdPC4VV2YyKSHWDOZFeaLVJU_Mh4', // Token Bot Lu
   domain: 'domain_lu', // domain
   plta: 'ptla_lu', // plta yang sesuai
   pltc: 'pltc_lu', // pltc yang sesuai
